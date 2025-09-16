@@ -6,7 +6,7 @@ This repository contains the analysis code and the publicly available data from 
 
 * `Files/`: This directory contains all the raw data files in ASCII format. The files include event energies and cut-survival probabilities for the TUM40 and Lise detectors.
 * `DataDescription_080217.pdf`: The official document describing the data sets and how to use them.
-* `analysis.ipynb`: A Jupyter Notebook (or Python script) with the code for data analysis and figure reproduction.
+* `main.ipynb`: A Jupyter Notebook (or Python script) with the code for data analysis and figure reproduction.
 
 #### Analysis and Reproducing Figures
 
